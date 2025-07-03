@@ -1,6 +1,11 @@
 # 🚢 Titanic Survival Prediction
 
+![App Screenshot](screenshot.png)
+
 Predicts if a passenger survived the Titanic disaster based on basic features.
+
+## 🚀Live Demo
+Visit the live application: https://titanic-ml-survival.streamlit.app/
 
 ## 📦 Dataset
 You need to download `train.csv` from [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic/data) and place it in the root folder.
